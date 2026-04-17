@@ -1,0 +1,7 @@
+{
+  "name": "efRon IA",
+  "description": "Uma inteligência artificial avançada com interface de voz em tempo real.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
